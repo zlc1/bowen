@@ -1,0 +1,20 @@
+#!/usr/bin/python
+#-*-coding:utf8-*-
+# a = min(1,2,3,4,5)
+# print(a)
+# a,b = divmod(80,7)
+# print(a,b)
+# code = chr(65)
+# # print(code)
+# a = [chr(i) for i in range(97,123)]
+# a = ord("a")
+# print(a)
+# print(a)
+# a = bin(6)
+# # print(a)
+# a = oct(8)
+# print(a)
+# a = hex(16)
+# print(a)
+a = int(0b10)
+print(a)
